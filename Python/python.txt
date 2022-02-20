@@ -1,0 +1,32 @@
+/*************************** PYTHON ***************************/
+
+PYTHON
+    - general purpose programming language
+    - high level programming language 
+    - portable // we can run it on various operating systems
+    - interpreted language // It goes through an interpreter which turn code into the language understood by computer's proccessor
+    - strongly typed
+    - huge set of libraries
+
+WHAT CAN YOU CREATE WITH PYTHON:
+    - Web Applications
+    - Android Applications
+    - Games
+    - Scientific Applications
+    - System Administration Applications    
+    - Console Applications
+
+SOFTWARE CREATED WITH PYTHON
+    - Youtube
+    - Google
+    - Dropbox
+    - Reddit
+    - Spotify
+    - Instagram
+
+JUPYTER NOTEBOOK
+    - interactive computing environment to experiment and share code
+    - "Julia, Python, R"
+
+TO RUN A CODE IN JUPYTER NOTEBOOK
+    - Shift + Enter
