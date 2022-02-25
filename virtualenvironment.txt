@@ -1,0 +1,7 @@
+HOW TO CREATE AND ACTIVATE A VIRTUAL ENVIRONMENT
+
+
+python -m pip install --upgrade pip
+pip install virtualenv
+python -m virtualenv (name)
+(name)\scripts\activate
